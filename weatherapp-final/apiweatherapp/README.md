@@ -1,1 +1,1 @@
-<div align='center'>API Weather App</div>
+<h1 align='center'>API Weather App</h1>
