@@ -1,0 +1,1 @@
+import sunny from "../images/weather-icons/sunny.svg";

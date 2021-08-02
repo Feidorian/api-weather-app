@@ -132,6 +132,7 @@ function App() {
         <Options forecast={forecast} dispatcher={dispatcher} />
       </div>
     </div>
+
   );
 }
 
